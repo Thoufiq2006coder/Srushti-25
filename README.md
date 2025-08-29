@@ -1,5 +1,6 @@
 # Srushti-25
 Safe Route Navigator
+
 Description
 Safe Route Navigator is a web application designed to help users find the safest routes to their destinations. It provides a user-friendly interface to search for routes, and it incorporates a backend system that can provide safety scores and trigger SOS alerts for emergencies.
 
@@ -18,6 +19,7 @@ Technologies Used
 This project is a full-stack application built with the following technologies:
 
 Frontend
+
 HTML: For the structure of all web pages.
 
 CSS: Styled using Tailwind CSS for a modern, responsive design.
@@ -42,6 +44,7 @@ Python 3.x
 Pip (Python package installer)
 
 Installation
+
 Clone the repository:
 
 git clone [https://github.com/your-username/safe-route-navigator.git](https://github.com/your-username/safe-route-navigator.git)
@@ -55,6 +58,7 @@ Install the required Python packages:
 pip install Flask Flask-Cors requests
 
 Usage
+
 Start the Flask server from the terminal:
 
 python main.py
@@ -62,6 +66,7 @@ python main.py
 Open your web browser and navigate to http://127.0.0.1:5000/.
 
 Team
+
 T. SRIVARSHAN (Leader and UX Development)
 
 BD THOUFIQ AHMED (Frontend Developer)
