@@ -1,10 +1,12 @@
 # Srushti-25
-#Safe Route Navigator
+Safe Route Navigator
 
 Description
+
 Safe Route Navigator is a web application designed to help users find the safest routes to their destinations. It provides a user-friendly interface to search for routes, and it incorporates a backend system that can provide safety scores and trigger SOS alerts for emergencies.
 
 Features
+
 User Authentication: Secure login and account creation pages for managing user access.
 
 Interactive Map: An integrated map powered by Leaflet.js to visualize routes.
@@ -16,6 +18,7 @@ Emergency SOS Alert: A one-click SOS button to send an immediate alert to a simu
 Mock Live Street View: A demo feature to simulate a live camera feed, accessible via a mock OTP for a realistic feel.
 
 Technologies Used
+
 This project is a full-stack application built with the following technologies:
 
 Frontend
