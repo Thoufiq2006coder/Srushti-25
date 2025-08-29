@@ -1,0 +1,17 @@
+{
+  "nodeC-nodeD": {
+    "camera_id": "cam_123",
+    "status": "active",
+    "feed_url": "https://www.pexels.com/download/video/3664072/"
+  },
+  "nodeX-nodeY": {
+    "camera_id": "cam_456",
+    "status": "active",
+    "feed_url": "https://www.pexels.com/download/video/3664072/"
+  },
+  "nodeA-nodeB": {
+    "camera_id": "cam_789",
+    "status": "inactive",
+    "feed_url": null
+  }
+}
