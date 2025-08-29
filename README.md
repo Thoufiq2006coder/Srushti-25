@@ -70,11 +70,11 @@ Open your web browser and navigate to http://127.0.0.1:5000/.
 
 Team
 
-T. SRIVARSHAN (Leader and UX Development)
+T SRIVARSHAN (Leader and UX Development)
 
-BD THOUFIQ AHMED (Frontend Developer)
+B D THOUFIQ AHMED (Frontend Developer)
 
-SRINATH D (Frontend Assistant Developer)
+D SRINATH (Frontend Assistant Developer)
 
 License
 This project is licensed under the MIT License.
